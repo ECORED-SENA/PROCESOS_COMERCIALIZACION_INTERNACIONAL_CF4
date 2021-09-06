@@ -12,13 +12,13 @@
       .row.align-items-center.mb-5
         .col-lg-6
           p La Investigación de Mercados (IM) consiste en el diseño, la recopilación, el análisis y el reporte informativo de conclusiones y recomendaciones; tomando como referente, los datos hallados en la situación específica sometida a indagación por parte de la empresa.
-          .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d.color-primario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular En este sentido, Prieto (2013), define la investigación de mercados como “una herramienta clave para la toma de decisiones, porque le permite a la gerencia de mercadeo, de acuerdo con sus objetivos empresariales en el corto, mediano y largo plazo, planificar las acciones que el mercado y la empresa necesitan.”
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
-              .h5.mb-0 
+              .h5.mb-0 Prieto
         .col-lg-6
           figure
             img(src='@/assets/curso/t1/f1.svg' alt='Personas viendo una pantalla')
@@ -31,36 +31,36 @@
           p Para comprender mejor la esencia de la investigación de mercados, su impacto e importancia para los principales actores del mercado, es necesario citar algunas definiciones de diferentes autores, estudiosos del tema y personas del común, que a veces definen mejor las cosas. De esta manera, usted como gerente podrá tener una visión más amplia al respecto:
       .row.mb-5
         .col-lg-4
-          .bloque-texto-d.color-acento-contenido.p-4
-            .bloque-texto-d__texto.mb-2
+          .bloque-texto-c.p-4
+            .bloque-texto-c__texto.mb-2
               i.fas.fa-quote-left
-              h2.mb-2 Un enfoque sistemático y objetivo del desarrollo y la provisión de información, aplicable al proceso de la toma de decisiones en la gerencia de mercadeo.
+              h3.mb-2.texto-blanco Un enfoque sistemático y objetivo del desarrollo y la provisión de información, aplicable al proceso de la toma de decisiones en la gerencia de mercadeo.
               i.fas.fa-quote-right
-            .bloque-texto-d__autor
-              span Kinnear y Taylor, 1998
+            .bloque-texto-c__autor
+              span.texto-blanco Kinnear y Taylor, 1998
         .col-lg-4
-          .bloque-texto-d.color-acento-contenido.p-4
-            .bloque-texto-d__texto.mb-2
+          .bloque-texto-c.p-4
+            .bloque-texto-c__texto.mb-2
               i.fas.fa-quote-left
-              h2.mb-2 Es la mejor manera de poder conocer a los consumidores y clientes, para mejorar la participación y el posicionamiento en el mercado.
+              h3.mb-2.texto-blanco Es la mejor manera de poder conocer a los consumidores y clientes, para mejorar la participación y el posicionamiento en el mercado.
               i.fas.fa-quote-right
-            .bloque-texto-d__autor
-              span Prieto Herrera, 2013
+            .bloque-texto-c__autor
+              span.texto-blanco Prieto Herrera, 2013
         .col-lg-4
-          .bloque-texto-d.color-acento-contenido.p-4
-            .bloque-texto-d__texto.mb-2
+          .bloque-texto-c.p-4
+            .bloque-texto-c__texto.mb-2
               i.fas.fa-quote-left
-              h2.mb-2 Es la identificación, recopilación, análisis y difusión de la información de manera sistemática y objetiva, con el propósito de mejorar la toma de decisiones relacionadas con la identificación y solución de problemas y oportunidades de mercadotecnia.
+              h3.mb-2.texto-blanco Es la identificación, recopilación, análisis y difusión de la información de manera sistemática y objetiva, con el propósito de mejorar la toma de decisiones relacionadas con la identificación y solución de problemas y oportunidades de mercadotecnia.
               i.fas.fa-quote-right
-            .bloque-texto-d__autor
-              span Naresh Malhotra, 2004
+            .bloque-texto-c__autor
+              span.texto-blanco Naresh Malhotra, 2004
     .col-lg-10.mx-auto.mb-5
       p Las anteriores definiciones corroboran y soportan, de manera precisa, el punto de interés hacia la investigación de mercados, y cómo a través de ella la organización y la gerencia de mercadeo puede planificar y ejecutar mejor las decisiones administrativas y comerciales, en aras a cumplir sus metas, satisfacer las necesidades y deseos bien definidos e identificados de sus consumidores, ser más competitiva, rentable y obtener el favoritismo del consumidor.
     Separador
     #t_1_2.titulo-segundo
       h2 1.2 Tipos de investigación de mercados
     p.mb-5 El alcance de la investigación está dado por la capacidad técnica que ella ofrece para tomar decisiones. 
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fcb")
       .px-5(titulo="Investigación exploratoria")
         .row.mb-4
           .col-lg-6
@@ -71,7 +71,7 @@
             .bloque-texto-b.color-primario.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h2.mb-0 En resumen, cuando el estado del arte acerca de una situación específica es, para el gerente, como el anteriormente descrito, el problema de decisión y la situación de mercado deberán abordarse en primera instancia mediante diseño y desarrollo de una investigación exploratoria (Plazas, 2011).
+                h3.mb-0 En resumen, cuando el estado del arte acerca de una situación específica es, para el gerente, como el anteriormente descrito, el problema de decisión y la situación de mercado deberán abordarse en primera instancia mediante diseño y desarrollo de una investigación exploratoria (Plazas, 2011).
                 i.fas.fa-quote-right
         p De acuerdo con el autor, las ventajas de la investigación exploratoria radica en que permite al gerente identificar previamente los cursos de acción y adquirir mayor grado de conocimiento sobre diferentes variables que impactan en la problemática, para sustentar con mayor claridad la formulación del problema. Por ejemplo: mientras que para una investigación concluyente que busca a través de una encuesta ponderar precios, sitios de compra, gramos o marcas que compra, con una investigación exploratoria, a través de una entrevista, <em>focus group</em>, mediante la observación o un estudio de etnografía, se pueden identificar las diferentes variables que influyen en la decisión de consumo, como aspectos culturales, generacionales, preferencias, contraindicaciones, estilos de vida y todos los aspectos que puedan influenciar en el consumo.  
       .px-5(titulo="Investigación concluyente")
@@ -85,7 +85,7 @@
             .cajon.color-acento-contenido.p-4
               p.mb-0 Las técnicas de recolección, el tipo de preguntas, los formatos de captura de datos y de información, o los procedimientos de análisis de resultados no son propios de un tipo particular de investigación, no están asociados unívocamente a una exploratoria o a una concluyente, por ende, no definen, no delimitan, no establecen el tipo de investigación que se efectuó o se efectuará.
         p Este método de investigación permite cuantificar las características de las variables que dieron forma a la formulación de ese problema objeto de estudio, identificado tal vez mediante la investigación exploratoria.
-    .contenedor.bg4.mb-5
+    .contenedor.bg4.ofVisible.mb-5
       .col-lg-10.mx-auto.mb-5
         h3.mb-5 Ejemplos de tipos de Investigación
         .row.align-items-center
@@ -99,7 +99,7 @@
         .row.align-items-center.mb-5
           .col-lg-5.me-auto
             p Para ampliar mejor las técnicas usadas en cada método de investigación, vamos a observar la siguiente gráfica:
-          .col-lg-6
+          .col-lg-6.tarjeta.fBlanco.boxShadow.p-5
             figure
               img(src='@/assets/curso/t1/f7.svg' alt='cuadro relacionado')
               figcaption Fuente: Dos Santos, 2017, p.52.
@@ -125,7 +125,7 @@
     #t_1_3.titulo-segundo
       h2 1.3 Etapas y procesos de la investigación de mercados
     p.mb-5 La planificación de cualquier investigación de mercados requiere de la existencia de las siguientes etapas consecutivas en el tiempo y que estén interrelacionadas entre ellas, puesto que cada una depende en algún modo de todas las demás:
-    .bg5.mb-5
+    .contenedor.bg5.ofVisible.mb-5
       .col-lg-8.mx-auto
         .row.align-items-center
           .col-lg-4
@@ -143,12 +143,12 @@
           .col-lg-4.me-auto.ms-3
             figure
               img(src='@/assets/curso/t1/f13.svg' alt='Interpretación de resultados y presentación de conclusiones')
-    .contenedor.bg6.mb-5
-      .col-lg-8.mx-auto.mb-4
+    .contenedor.bg9.mb-5
+      .col-lg-8.mx-auto.mb-4.tarjeta.fBlanco.p-5.boxShadow
         p Con la siguiente tabla se busca validar la información anterior sobre el proceso de planificación de la investigación de mercados desde la óptica de otro autor:
         figure
-          img(src='@/assets/curso/t1/f14.svg' alt='Figura relacionada')
-          figcaption Fuente: Prieto, 2013, p.72.
+          img(src='@/assets/curso/t1/f14.svg' alt='Figura relacionada').mb-4
+          span.text-small Fuente: Prieto, 2013, p.72.
       p De acuerdo con la anterior gráfica, el diagnóstico actual define aspectos como el objeto o propósito del estudio, momento actual de la empresa, sus fortalezas, oportunidades, debilidades y amenazas. Así mismo, en el diseño de la investigación se identifican las preguntas claves que debe responder la investigación de mercados, las fuentes de datos, cómo hacer el cuestionario e identificar la información urgente.
       p Los instrumentos y la recopilación de datos identifican ¿quién recopilará los datos?, ¿Cuánto dura la recopilación?, da claridad al procedimiento y garantiza el grado de capacitación del personal que ejecutará el proceso. La estadística y el muestreo identifican la población, la necesidad de la muestra, el tamaño de esta y la manera que se escogerá. Mientras que para la fase de análisis de datos es clave el análisis de variables, criterios de evaluación y necesidades de <em><b>software</b></em> estadístico. 
       p También es importante dar claridad a ¿quién leerá el informe final?, ¿Número de presentaciones necesarias, la misma publicación del informe, posibilidad de recomendaciones para la gerencia y disponibilidad de equipos? Para finalizar, el autor recomienda que en la fase de evaluación se reafirmen las necesidades de asesoría externa, cumplimiento del cronograma, costo de la investigación, logro de objetivos, acciones correctivas y necesidades de capacitación.
@@ -202,14 +202,16 @@
           .col-lg-5
             figure
               img(src='@/assets/curso/t1/f15.svg' alt='Imagen relacionada')
-    li
-      span a
-      h3 Método de la encuesta
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.fcs
+          span a
+        h3 Método de la encuesta
     .col-lg-10.mx-auto.mb-5
       p.mb-5 La encuesta es una técnica de investigación en la que se recopila información de una población o muestra de personas a través de un cuestionario. Las encuestas pueden ser: personales, por correo, por teléfono y mixtas. 
       .row.justify-content-between
         .col-lg-6
-          .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d.color-primario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular Encuesta personal: es una encuesta, máximo de una hora, que busca información mediante el contacto directo entre un entrevistador con las personas seleccionadas para tal fin, llamados encuestados.
@@ -221,7 +223,7 @@
             img(src='@/assets/curso/t1/f16.png' alt='Imagen relacionada')
     h3 Pautas para hacer entrevistas y cualidades básicas de un buen entrevistador:
     TabsA.color-acento-contenido.mb-5
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Pautas")
+      .tarjeta.color-acento-contenido.fcp15.p-4(titulo="Pautas")
         h4 Pautas:
         .row.align-items-center
           .col-lg-6
@@ -259,7 +261,7 @@
               li 
                 i.fas.fa-play.cs
                 | No deje preguntas sin respuesta.
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Cualidades básicas")
+      .tarjeta.color-acento-contenido.fcp15.p-4(titulo="Cualidades básicas")
         h4 Cualidades básicas de un buen entrevistador
         .row.align-items-center
           .col-lg-6
@@ -309,7 +311,7 @@
               li 
                 i.fas.fa-play.cs
                 | Proponer mejoras a su trabajo.
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Tipos de encuesta")
+      .tarjeta.color-acento-contenido.fcp15.p-4(titulo="Tipos de encuesta")
         h4 Tipos de encuesta
         .row.align-items-center.mb-4
           .col-lg-2
@@ -329,14 +331,16 @@
               img(src='@/assets/curso/t1/f21.svg' alt='icono arroba (at)')._88px.mx-auto
           .col-10
             p.mb-0 Encuestas mixtas: son aquellas que integran dos formas diferentes de aplicación de encuesta, por ejemplo: correo electrónico y teléfono, para confirmar los datos.
-    .contenedor.bg8.mb-5
+    .contenedor.bg7.mb-5
       h3.text-center Gráfico tipos de encuesta
       .col-lg-7.mx-auto
         figure
           img(src='@/assets/curso/t1/f22.svg' alt='Personas trabajando')
-    li
-      span b
-      h3 Método de observación
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.fcs
+          span b
+        h3 Método de observación
     .contenedor
       .row.align-items-center.mb-5
         .col-lg-4
@@ -349,58 +353,60 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/check.svg' alt='icono de chequeo')
-        .tarjeta.tarjeta--azul
+        .cpBefore.fcb
           .p-4
             h4 Observación natural o artificial. 
             p La primera es la observación del comportamiento en su expresión real y tal como se presenta en el entorno; la segunda es la observación desde un ambiente simulado o creado para tal fin.
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/check.svg' alt='icono de chequeo')
-        .tarjeta.tarjeta--azul
+        .cpBefore.fcb
           .p-4
             h4 Observación oculta o no oculta.
             p Se diferencia en que los encuestados están conscientes o no de la observación.
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/check.svg' alt='icono de chequeo')
-        .tarjeta.tarjeta--azul
+        .cpBefore.fcb
           .p-4
             h4 Observación estructurada o no estructurada.
             p En la primera se tiene claro la necesidad de la información y los objetivos de la investigación; en la segunda, aún están por definirse estos aspectos.
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/check.svg' alt='icono de chequeo')
-        .tarjeta.tarjeta--azul
+        .cpBefore.fcb
           .p-4
             h4 Observación directa o indirecta.
             p La primera es aquella que se hace de primera mano y la segunda es la observación de registros de comportamientos anteriores.
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/check.svg' alt='icono de chequeo')
-        .tarjeta.tarjeta--azul
+        .cpBefore.fcb
           .p-4
             h4 Observación humana o mecánica.
             p La primera la hace la persona como tal y en la segunda se utilizan aparatos como audiómetros (oídos), Psicogalvanómetros (transpiración), videocámaras, pupilómetros (dilatación del diámetro del ojo), cámara de ojo (movimiento del ojo).
-    .col-lg-8.mx-auto.mb-5
+    .col-lg-8.mx-auto.mb-5.boxShadow.tarjeta.fBlanco.p-5
       h3.text-center Tipos de observación
       figure
         img(src='@/assets/curso/t1/f24.svg' alt='Tipos de observación')
         figure Fuente: Prieto, 2013, p.101.
-    li
-      span c
-      h3 Método experimental
-    .contenedor.bg9.mb-5
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.fcs
+          span c
+        h3 Método experimental
+    .contenedor.bg8.mb-5
       .col-lg-10.mx-auto
         p Es aquella investigación en la cual una o más variables independientes se manipulan o controlan de manera consciente y se mide su efecto sobre una variable o más variables dependientes.
         .row.mb-5
           .col-lg-4
-            .tarjeta.tarjeta--blanca.p-4
+            .tarjeta.tarjeta--blanca.boxShadow.p-5.h280px
               p La variable independiente es aquella que se puede manipular, cambiar o modificar en forma independiente a cualquier otra variable y se convierte en la influencia causal del experimento.
           .col-lg-4
-            .tarjeta.tarjeta--blanca.p-4
+            .tarjeta.tarjeta--blanca.boxShadow.p-5.h280px
               p Las variables dependientes son las medidas tomadas sobre las unidades de prueba que dependen a su vez de la manipulación del investigador.
           .col-lg-4
-            .tarjeta.tarjeta--blanca.p-4
+            .tarjeta.tarjeta--blanca.boxShadow.p-5.h280px
               p Las unidades de prueba son las personas naturales o jurídicas a las que se les aplica el experimento y se les mide u observa.
     .col-lg-10.mx-auto.mb-5
       .row.align-items-center
@@ -409,11 +415,11 @@
             img(src='@/assets/curso/t1/f24b.svg' alt='megafono')
         .col-lg-8
           p Por ejemplo, una nueva campaña publicitaria (variable independiente) se aplicó en un mercado de prueba (unidad de prueba) y allí se incrementaron las ventas, pero no ocurrió en los mercados donde no se hizo la campaña (unidad de control). El investigador puede tener la seguridad de que la campaña sí incidió en el aumento de las ventas (variable dependiente) de ese mercado. 
-    .contenedor.bg6.mb-5
+    .contenedor.bg9.mb-5
       h3.text-center Se usan por lo menos dos formas de hacer experimentación:
       .row.align-items-center.mb-5.justify-content-between
         .col-lg-4
-          .bloque-texto-b.color-secundario.p-4
+          .bloque-texto-b.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
               h4.mb-0 Experimento de laboratorio: es aquel donde el investigador diseña una situación con reglas precisas y manipula algunas variables mientras controla otras. 
@@ -423,15 +429,17 @@
           figure
             img(src='@/assets/curso/t1/f25.svg' alt='Personas examinando un cerebro')
         .col-lg-4
-          .bloque-texto-b.color-secundario.p-4
+          .bloque-texto-b.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
               h4.mb-0 Experimento de campo: es aquel donde el investigador se enfrenta a una situación real en donde manipula algunas variables mientras controla otras, pero sujeto a los cambios del entorno.
               i.fas.fa-quote-right
             span (Prieto, 2013, p. 101)
-    li
-      span d
-      h3 La estadística
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.fcs
+          span d
+        h3 La estadística
     .col-lg-7.mx-auto.mb-5
       .row.align-items-center
         .col-lg-5
@@ -447,13 +455,13 @@
       .col-lg-6
         figure
           img(src='@/assets/curso/t1/f28.svg' alt='Estadística analítica o inductiva, que pretende explicar el comportamiento de lo observado, probar la validez de los resultados y descubrir las causas de su actuación para lograr conclusiones más precisas')
-    .contenedor.bg6.mb-5
+    .contenedor.bg9.mb-5
       .row.align-items-center.mb-5.px-5
         .col-lg-6
           h4 Muestreo
           p El muestreo es algo que se hace desde hace mucho tiempo, pero a lo que no le damos el carácter científico, que se le abona cuando lo tratamos en una investigación de mercados. El objetivo del muestreo es conocer las características de una población cuando esta no puede ser examinada en su totalidad. El cálculo de probabilidades y la estadística son el fundamento matemático del muestreo.
         .col-lg-6
-          .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d.color-primario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular Además, ya existe todo tipo de <em><b>software</b></em> que le puede brindar la ayuda necesaria para esta clase de operaciones. Lo que se debe ensayar es la interpretación de los datos que le suministra el computador (Prieto, 2013, p.101).
@@ -465,7 +473,7 @@
       h2 1.5 La investigación de mercados internacionales
     .col-lg-10.mx-auto
       p.mb-5 Cualquier organización del mundo, por efectos de apertura de mercados, competitividad, tratados de libre comercio o la misma globalización, debe tener una proyección como empresa global o de internacionalización. Algunas ya tienen como proyección un proceso de ampliación de mercados o proceso de internacionalización, por lo que se requiere como organización plantear y ejecutar una investigación de mercados internacionales, con el objetivo de tener un mayor grado de éxito en estos nuevos mercados, mayor aceptación de sus compradores y consumidores con miras de tener clientes, a través del amplio conocimiento cultural colectivo de estos nuevos territorios.
-      .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+      .bloque-texto-a.color-primario.fcb.p-4.p-md-5.mb-5 
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
             figure

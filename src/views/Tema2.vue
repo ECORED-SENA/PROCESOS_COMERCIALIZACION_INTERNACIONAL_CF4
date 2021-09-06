@@ -42,21 +42,21 @@
         hr
         .row
           .col-lg-1.texto-blanco
-            span.circle.fcs
+            .circle.fcac
               h2 1
           .col-lg-10
             p Tablas: son espacios de almacenamiento que permiten guardar la información que estará compuesta por datos y registros. En una Base de Datos pueden existir muchas tablas, dependiendo de la cantidad de información que se necesita administrar.
         hr
         .row
           .col-lg-1.texto-blanco
-            span.circle.fcs
+            .circle.fcac
               h2 2
           .col-lg-10
             p Campo: identifica lo que se utiliza dentro de una tabla, por ejemplo, la tabla de datos personales contendría los campos: número de identificación, apellidos, nombres, dirección, teléfono, sexo, fecha de nacimiento. En los campos se debe establecer una llave primaria o campo que permita clasificar y que sea único; para nuestro ejemplo, el campo que no se repite sería el de número de identificación.
         hr
         .row
           .col-lg-1.texto-blanco
-            span.circle.fcs
+            .circle.fcac
               h2 3
           .col-lg-10
             p Registro: los registros son el conjunto de datos que se han ingresado dentro de la tabla, que a su vez será la información para procesar.
@@ -64,23 +64,23 @@
       h3.text-center Herramientas para procesamiento de información
       p Es una herramienta que permite la gestión, organización y análisis de información, mediante la construcción de una base de datos. Estas herramientas están provistas de una serie de funciones, comandos, y complementos para la administración de la información.
     h3.text-center Clasificación:
-    .contenedor.bg6
+    .contenedor.bg9.p-0
       .row.align-items-center.mb-5
-        .col-lg-3.mx-0.fcs.texto-blanco
+        .col-lg-3.me-0.fcs.texto-blanco.p-4.flechaDer
           p Corporativos: son aplicaciones que están orientadas a la administración de un gran volumen de información, se interconectan por medio de redes de datos; dentro de este grupo se encuentra Microsoft Access, este software permite la administración de datos en forma de tablas, crear relaciones entre tablas, consultas, formularios y reportes para la presentación de la información.
-        .col-lg-3.mx-0
-          figure
-            img(src='@/assets/curso/t2/f7.svg' alt='persona viendo un servidor').mb-4
-        .col-lg-3.mx-0.fcs.texto-blanco
+        .col-lg-3.me-0
+          figure.p-3
+            img(src='@/assets/curso/t2/f7.svg' alt='persona viendo un servidor')
+        .col-lg-3.me-0.fcs.texto-blanco.p-4.flechaDer
           p Personales: ofrecen soluciones básicas para la administración y almacenamiento de la información, ya que el volumen de información que procesa es pequeño. Dentro de este grupo encontramos a Microsoft Excel, que es un software basado en hojas de cálculo, que permite realizar cálculos matemáticos, financieros, contables y estadísticos.
-        .col-lg-3.mx-0
+        .col-lg-3.me-0
           figure.p-5
-            img(src='@/assets/curso/t2/f8.svg' alt='persona y un folder cerrado con candado').mb-4
+            img(src='@/assets/curso/t2/f8.svg' alt='persona y un folder cerrado con candado')
     Separador
     #t_2_1.titulo-segundo
       h2 Aplicaciones tecnológicas
     .col-lg-10.mx-auto.mb-5
-      .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+      .bloque-texto-a.color-primario.fcb.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
@@ -114,7 +114,7 @@
       .col-lg-3
         figure
           img(src='@/assets/curso/t2/f11.svg' alt='Mejores resultados económicos > Clientes más satisfechos > Mejora de procesos > Mejora en la actuación de los empleados')
-          figcaption Fuente: Salgueiro, 2001, p.54.
+          span.text-small Fuente: Salgueiro, 2001, p.54.
       .col-lg-1
     hr
     .row.align-items-center.mb-4
@@ -136,11 +136,11 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/t2/f13.svg' alt='Etiqueta RFID').mb-4
-              figcaption Etiqueta RFID en uso por Wal-Mart.
+              span.text-small Etiqueta RFID en uso por Wal-Mart.
           .col-lg-6
             figure
               img(src='@/assets/curso/t2/f14.png' alt='Chip RFID').mb-4
-              figcaption Chip RFID &lt;pasivo&gt; encapsulado para uso en uniformes y sector textil. Especial resistencia para lavanderías.
+              span.text-small Chip RFID &lt;pasivo&gt; encapsulado para uso en uniformes y sector textil. Especial resistencia para lavanderías.
     p El uso de esta tecnología permite tener localizado cualquier producto dentro de la cadena de suministro. En lo referente a la trazabilidad, las etiquetas podrían tener gran aplicación, ya que pueden grabarse, con lo que se podría conocer como: el tiempo que el producto estuvo almacenado y en qué sitios, entre otros, optimizando así el manejo de los productos en las cadenas de suministro. (Velasco, 2013, p. 175).
     p ECR: Respuesta Eficiente al Consumidor.
     p Es un conjunto de estrategias en las que clientes y proveedores trabajan conjuntamente para aportar valor añadido a los consumidores, pero a la vez, reduciendo los costes de gestión de pedidos y almacenaje.

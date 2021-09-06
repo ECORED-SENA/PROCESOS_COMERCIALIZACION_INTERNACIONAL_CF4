@@ -1,5 +1,65 @@
+$casiBlanco: #F8F8F8
+$cac25: #fd8d2548
+$cp25: #BBABF548
+$cp15: #BBABF528
+  
 ._88px
   width: 88px
+
+.bloque-texto-d.color-primario
+  &::before
+    background-color: rgba(187,171,245,.2) !important
+
+.bloque-texto-b.color-primario
+  &::before
+    background-color: rgba(187,171,245,.2) !important
+
+.cs
+  color: $color-secundario !important
+
+.fcb
+  background-color: $casiBlanco !important
+
+.fcs
+  background-color: $color-secundario !important
+
+.circle
+  border-radius: 50%
+  width: 3rem
+  height: 3rem
+  margin-right: 2rem
+  h2
+    margin-left: 40%
+    padding-top: 25%
+
+.fcac
+  background-color: $color-acento-contenido
+
+.fcac25, .cajon.color-acento-contenido
+  background-color: $cac25 !important
+
+.fcp25, .cajon.color-primario
+  background-color: $cp25 !important
+
+.fcp15
+  background-color: $cp15 !important
+
+.fBlanco
+  background-color: white !important
+  
+.boxShadow
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5)
+
+.ofVisible
+  overflow: visible !important
+
+.contenedor
+  margin-left: -3rem
+  margin-right: -3rem
+  padding-left: 3rem
+  padding-right: 3rem
+  padding-top: 3rem
+  padding-bottom: 3rem
 
 .bg1
   background-image: url('../assets/curso/bg1.svg')
@@ -8,45 +68,83 @@
 
 .bg3
   background-image: url('../assets/curso/bg2.svg')
-  background-position: bottom center
+  background-position: center calc( 100% - 6rem )
   background-repeat: no-repeat
 
 .bg4
-  background-image: url('../assets/curso/bg3.svg')
-  background-position: bottom left
-  background-repeat: no-repeat
-
-.bg5
   background-image: url('../assets/curso/bg4.svg')
   background-position: bottom left
   background-repeat: no-repeat
+  overflow: visible
+  margin-top: -900px
+  padding-top: 900px
+
+.bg5
+  background-image: url('../assets/curso/bg5.svg')
+  background-position: bottom right
+  background-repeat: no-repeat
 
 .bg6
-  background-image: url('../assets/curso/bg5.svg')
-  background-position: bottom left
+  background-image: url('../assets/curso/bg6.svg')
+  background-position: center center
   background-repeat: no-repeat
+  background-size: contain
 
 .bg7
-  background-image: url('../assets/curso/bg6.svg')
-  background-position: bottom left
+  background-image: url('../assets/curso/bg7.svg')
+  background-position: bottom center
   background-repeat: no-repeat
+  overflow: visible
+  margin-top: -300px
+  padding-top: 300px
+  //margin-bottom: -300px
+  //padding-bottom: 300px
 
 .bg8
-  background-image: url('../assets/curso/bg7.svg')
-  background-position: bottom left
-  background-repeat: no-repeat
-
-.bg9
   background-image: url('../assets/curso/bg8.svg')
   background-position: bottom left
   background-repeat: no-repeat
 
-.bg10
+.bg9
   background-image: url('../assets/curso/bg9.svg')
-  background-position: bottom left
-  background-repeat: no-repeat
+  background-position: center center
+  background-repeat: repeat
 
-/*.bg10
+.bg10
   background-image: url('../assets/curso/bg10.svg')
   background-position: bottom left
   background-repeat: no-repeat
+
+.cpBefore
+  margin-left: -54px
+  padding-left: 54px
+  width: 100%
+  &::before
+    content: ''
+    display: block
+    width: 7px
+    height: 50%
+    position: relative
+    float: right
+    background-color: #BBABF5
+    right: 0
+    margin-top: 4%
+
+.h280px
+  height: 280px
+
+@media screen and ( min-width:991px  )
+  .flechaDer
+    overflow: visible
+    height: 350px
+    &::before
+      content: ''
+      display: block
+      width: 70px
+      height: 70px
+      position: relative
+      float: right
+      background-color: $color-secundario
+      right: -40px
+      margin-top: calc( 50% - 35px )
+      transform: rotateZ(45deg)
