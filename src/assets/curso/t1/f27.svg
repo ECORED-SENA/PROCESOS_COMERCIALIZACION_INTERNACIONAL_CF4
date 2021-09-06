@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="613.349" height="430.674" viewBox="0 0 613.349 430.674">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#472ea6"/>
+      <stop offset="1" stop-color="#7352f0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_60149" data-name="Grupo 60149" transform="translate(-186.651 -4039.397)">
+    <path id="Trazado_126283" data-name="Trazado 126283" d="M823.98,565.641c-39.445,0-536.97.268-536.97.2-.22-.514-90.889-102.076,17.01-187.327,52.248-41.282-30.859-104.439,35.208-168.75,50.385-49.046,102.67,5.348,157.26-17.478,9.646-4.029,19.324-10.515,29.013-20.467a107.735,107.735,0,0,1,17.83-14.716q1.471-.976,2.973-1.9a118.943,118.943,0,0,1,11.9-6.419q4.123-1.933,8.4-3.575h0a138.11,138.11,0,0,1,13.924-4.507,158.341,158.341,0,0,1,20.767-4.051q4.633-.6,9.339-.947c61-4.559,129.642,21.084,165.066,58.563,7.132,7.547,39.563,46.6,14,100.272-16.141,33.888,48.16,77.983,63.163,121.477C890.625,525.5,824.534,564.359,823.98,565.641Z" transform="translate(-64.511 3904.215)" fill="url(#linear-gradient)"/>
+    <text id="Estadística_descriptiva_o_deductiva_la_cual_trabaja_con_características_como_promedios_o_variabilidad_de_datos_sin_profundizar_pero_facilitando_las_comparaciones_de_los_hechos._" data-name="Estadística descriptiva o deductiva, la cual trabaja con características como promedios o variabilidad de datos sin profundizar, pero facilitando las comparaciones de los hechos. " transform="translate(314 4313)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Estadística descriptiva o deductiva, la cual </tspan><tspan x="0" y="44">trabaja con características como promedios o </tspan><tspan x="0" y="69">variabilidad de datos sin profundizar, pero </tspan><tspan x="0" y="94">facilitando las comparaciones de los hechos. </tspan></text>
+    <g id="Elipse_4067" data-name="Elipse 4067" transform="translate(390 4101)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="88.5" cy="89" rx="88.5" ry="89" stroke="none"/>
+      <ellipse cx="88.5" cy="89" rx="88" ry="88.5" fill="none"/>
+    </g>
+    <path id="Trazado_126285" data-name="Trazado 126285" d="M522.228,209.149a8.847,8.847,0,0,0,8.841-8.841v-8.923a8.85,8.85,0,0,0-8.841-8.839H513.3a8.845,8.845,0,0,0-8.832,8.839v1.177H488.355V180.123h1.995a9.873,9.873,0,0,0,9.86-9.857V159.7a9.873,9.873,0,0,0-9.86-9.857H479.785a9.869,9.869,0,0,0-9.855,9.857v10.563a9.869,9.869,0,0,0,9.855,9.857h1.995v12.438H466.708v-1.177a8.847,8.847,0,0,0-8.837-8.839h-8.925a8.854,8.854,0,0,0-8.839,8.839v8.923a8.851,8.851,0,0,0,8.839,8.841h1.177v6.1h-1.177a8.851,8.851,0,0,0-8.839,8.841v8.921a8.849,8.849,0,0,0,8.839,8.839h8.925a8.843,8.843,0,0,0,8.837-8.839v-8.921a8.845,8.845,0,0,0-8.837-8.841h-1.177v-6.1h1.177a8.845,8.845,0,0,0,8.837-8.841v-1.175H481.78v16.113h-1.173a8.849,8.849,0,0,0-8.843,8.841v8.921a8.847,8.847,0,0,0,8.843,8.839h8.921a8.847,8.847,0,0,0,8.843-8.839v-8.921a8.849,8.849,0,0,0-8.843-8.841h-1.173V199.133h16.115v1.175a8.843,8.843,0,0,0,8.832,8.841h1.179v6.1H513.3a8.843,8.843,0,0,0-8.832,8.841v8.921a8.841,8.841,0,0,0,8.832,8.839h8.925a8.845,8.845,0,0,0,8.841-8.839v-8.921a8.847,8.847,0,0,0-8.841-8.841h-1.173v-6.1Z" transform="translate(-7.088 3994.154)" fill="#fd8f25"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227.179" height="217.5" viewBox="0 0 227.179 217.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#472ea6"/>
+      <stop offset="1" stop-color="#7352f0"/>
+    </linearGradient>
+    <filter id="Elipse_4073" x="8" y="0" width="214" height="214" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_60154" data-name="Grupo 60154" transform="translate(-1020 -1204)">
+    <path id="Trazado_126373" data-name="Trazado 126373" d="M-9280.592-905.012A113.616,113.616,0,0,0-9167-793.7a113.615,113.615,0,0,0,113.589-111.308Z" transform="translate(10300.592 2215.204)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 1020, 1204)" filter="url(#Elipse_4073)">
+      <circle id="Elipse_4073-2" data-name="Elipse 4073" cx="98" cy="98" r="98" transform="translate(14 6)" fill="#f7f7f7"/>
+    </g>
+    <text id="Permite_la_organización_estructurada_de_los_datos." data-name="Permite la organización estructurada de los datos." transform="translate(1051 1267)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="44.93" y="17">Permite la </tspan><tspan x="35.113" y="41">organización </tspan><tspan x="12.59" y="65">estructurada de los </tspan><tspan x="58.809" y="89">datos.</tspan></text>
+  </g>
+</svg>

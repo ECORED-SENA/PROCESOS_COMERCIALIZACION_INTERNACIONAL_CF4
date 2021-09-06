@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="936" height="497" viewBox="0 0 936 497">
+  <defs>
+    <filter id="Rectángulo_32418" x="0" y="0" width="936" height="497" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_59806" data-name="Grupo 59806" transform="translate(-329 -1666)">
+    <g transform="matrix(1, 0, 0, 1, 329, 1666)" filter="url(#Rectángulo_32418)">
+      <rect id="Rectángulo_32418-2" data-name="Rectángulo 32418" width="918" height="479" rx="39" transform="translate(12 6)" fill="#fff"/>
+    </g>
+    <text id="Fuente:_Prieto_2013_p.101." data-name="Fuente: Prieto, 2013, p.101." transform="translate(419 2118)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fuente: Prieto, 2013, p.101.</tspan></text>
+    <rect id="Rectángulo_31641" data-name="Rectángulo 31641" width="190" height="86" rx="18" transform="translate(707 1883)" fill="#fd8f25"/>
+    <rect id="Rectángulo_32419" data-name="Rectángulo 32419" width="190" height="86" rx="18" transform="translate(707 1730)" fill="#bbabf5"/>
+    <rect id="Rectángulo_32420" data-name="Rectángulo 32420" width="190" height="86" rx="18" transform="translate(453 1730)" fill="#bbabf5"/>
+    <rect id="Rectángulo_32421" data-name="Rectángulo 32421" width="190" height="86" rx="18" transform="translate(453 1987)" fill="#bbabf5"/>
+    <rect id="Rectángulo_32422" data-name="Rectángulo 32422" width="190" height="86" rx="18" transform="translate(958 1987)" fill="#bbabf5"/>
+    <rect id="Rectángulo_32423" data-name="Rectángulo 32423" width="190" height="86" rx="18" transform="translate(958 1730)" fill="#bbabf5"/>
+    <text id="OBSERVACIÓN" transform="translate(741 1915)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">OBSERVACIÓN</tspan></text>
+    <text id="NATURAL_O_ARTIFICIAL_" data-name="NATURAL O ARTIFICIAL " transform="translate(480 1756)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-42.309" y="17">NATURAL O </tspan><tspan x="-40.285" y="41">ARTIFICIAL </tspan></text>
+    <text id="OCULTA_O_NO_OCULTA" data-name="OCULTA O NO OCULTA" transform="translate(741 1751)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-49.473" y="17">OCULTA O NO </tspan><tspan x="-28.809" y="41">OCULTA</tspan></text>
+    <text id="ESTRUCTURADA_O_NO_ESTRUCTURADA" data-name="ESTRUCTURADA O NO ESTRUCTURADA" transform="translate(992 1739)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-59.844" y="17">ESTRUCTURADA </tspan><tspan x="-18.684" y="41">O NO </tspan><tspan x="-59.844" y="65">ESTRUCTURADA</tspan></text>
+    <text id="HUMANA_O_MECÁNICA" data-name="HUMANA O MECÁNICA" transform="translate(998 2005)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.496" y="17">HUMANA O </tspan><tspan x="-40.262" y="41">MECÁNICA</tspan></text>
+    <text id="DIRECTA_O_NO_DIRECTA" data-name="DIRECTA O NO DIRECTA" transform="translate(487 2014)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-52.336" y="17">DIRECTA O NO </tspan><tspan x="-31.672" y="41">DIRECTA</tspan></text>
+    <g id="Grupo_59801" data-name="Grupo 59801" transform="translate(63 73)">
+      <path id="Polígono_26" data-name="Polígono 26" d="M6.11,0l6.11,9.776H0Z" transform="matrix(-0.602, 0.799, -0.799, -0.602, 629.599, 1796.423)" fill="#707070"/>
+      <line id="Línea_175" data-name="Línea 175" x1="50" transform="matrix(0.799, 0.602, -0.602, 0.799, 580, 1766.699)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Grupo_59803" data-name="Grupo 59803" transform="translate(908.401 1839.699)">
+      <path id="Polígono_26-2" data-name="Polígono 26" d="M6.11,0l6.11,9.776H0Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 7.354, 39.483)" fill="#707070"/>
+      <line id="Línea_175-2" data-name="Línea 175" x1="50" transform="matrix(-0.799, 0.602, -0.602, -0.799, 49.599, 0)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Grupo_59805" data-name="Grupo 59805" transform="matrix(0.602, -0.799, 0.799, 0.602, 777.509, 1859.238)">
+      <path id="Polígono_26-3" data-name="Polígono 26" d="M6.11,0l6.11,9.776H0Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 7.354, 39.483)" fill="#707070"/>
+      <line id="Línea_175-3" data-name="Línea 175" x1="50" transform="matrix(-0.799, 0.602, -0.602, -0.799, 49.599, 0)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Grupo_59802" data-name="Grupo 59802" transform="translate(-1205.757 1980.241) rotate(-71)">
+      <path id="Polígono_26-4" data-name="Polígono 26" d="M6.11,0l6.11,9.776H0Z" transform="matrix(-0.602, 0.799, -0.799, -0.602, 629.599, 1796.423)" fill="#707070"/>
+      <line id="Línea_175-4" data-name="Línea 175" x1="50" transform="matrix(0.799, 0.602, -0.602, 0.799, 580, 1766.699)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Grupo_59804" data-name="Grupo 59804" transform="translate(920.668 2019.875) rotate(-109)">
+      <path id="Polígono_26-5" data-name="Polígono 26" d="M6.11,0l6.11,9.776H0Z" transform="matrix(0.602, 0.799, -0.799, 0.602, 42.245, 0)" fill="#707070"/>
+      <line id="Línea_175-5" data-name="Línea 175" x1="50" transform="matrix(0.799, -0.602, 0.602, 0.799, 0, 39.483)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
