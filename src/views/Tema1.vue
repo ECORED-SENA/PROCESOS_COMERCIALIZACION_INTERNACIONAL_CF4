@@ -25,7 +25,7 @@
     .contenedor.bg3
       .row
         .col-lg-5.ps-5
-          figure
+          figure.mb-4
             img(src='@/assets/curso/t1/f2.svg' alt='Mujer viendo documento')
         .col-lg-7
           p Para comprender mejor la esencia de la investigación de mercados, su impacto e importancia para los principales actores del mercado, es necesario citar algunas definiciones de diferentes autores, estudiosos del tema y personas del común, que a veces definen mejor las cosas. De esta manera, usted como gerente podrá tener una visión más amplia al respecto:
@@ -130,19 +130,19 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img(src='@/assets/curso/t1/f9.svg' alt='Determinación del problema a investigar')
+              img(src='@/assets/curso/t1/f9.svg' alt='Determinación del problema a investigar').max300px
           .col-lg-4
             figure
-              img(src='@/assets/curso/t1/f10.svg' alt='Determinación de los objetivos de la investigación')
+              img(src='@/assets/curso/t1/f10.svg' alt='Determinación de los objetivos de la investigación').max300px
           .col-lg-4
             figure
-              img(src='@/assets/curso/t1/f11.svg' alt='Obtención de la información')
+              img(src='@/assets/curso/t1/f11.svg' alt='Obtención de la información').max300px
           .col-lg-4.ms-auto.me-3
             figure
-              img(src='@/assets/curso/t1/f12.svg' alt='Tratamiento y análisis de datos')
+              img(src='@/assets/curso/t1/f12.svg' alt='Tratamiento y análisis de datos').max300px
           .col-lg-4.me-auto.ms-3
             figure
-              img(src='@/assets/curso/t1/f13.svg' alt='Interpretación de resultados y presentación de conclusiones')
+              img(src='@/assets/curso/t1/f13.svg' alt='Interpretación de resultados y presentación de conclusiones').max300px
     .contenedor.bg9.mb-5
       .col-lg-8.mx-auto.mb-4.tarjeta.fBlanco.p-5.boxShadow
         p Con la siguiente tabla se busca validar la información anterior sobre el proceso de planificación de la investigación de mercados desde la óptica de otro autor:
@@ -150,8 +150,8 @@
           img(src='@/assets/curso/t1/f14.svg' alt='Figura relacionada').mb-4
           span.text-small Fuente: Prieto, 2013, p.72.
       p De acuerdo con la anterior gráfica, el diagnóstico actual define aspectos como el objeto o propósito del estudio, momento actual de la empresa, sus fortalezas, oportunidades, debilidades y amenazas. Así mismo, en el diseño de la investigación se identifican las preguntas claves que debe responder la investigación de mercados, las fuentes de datos, cómo hacer el cuestionario e identificar la información urgente.
-      p Los instrumentos y la recopilación de datos identifican ¿quién recopilará los datos?, ¿Cuánto dura la recopilación?, da claridad al procedimiento y garantiza el grado de capacitación del personal que ejecutará el proceso. La estadística y el muestreo identifican la población, la necesidad de la muestra, el tamaño de esta y la manera que se escogerá. Mientras que para la fase de análisis de datos es clave el análisis de variables, criterios de evaluación y necesidades de <em><b>software</b></em> estadístico. 
-      p También es importante dar claridad a ¿quién leerá el informe final?, ¿Número de presentaciones necesarias, la misma publicación del informe, posibilidad de recomendaciones para la gerencia y disponibilidad de equipos? Para finalizar, el autor recomienda que en la fase de evaluación se reafirmen las necesidades de asesoría externa, cumplimiento del cronograma, costo de la investigación, logro de objetivos, acciones correctivas y necesidades de capacitación.
+      p Los instrumentos y la recopilación de datos identifican ¿Quién recopilará los datos?, ¿Cuánto dura la recopilación?, da claridad al procedimiento y garantiza el grado de capacitación del personal que ejecutará el proceso. La estadística y el muestreo identifican la población, la necesidad de la muestra, el tamaño de esta y la manera que se escogerá. Mientras que para la fase de análisis de datos es clave el análisis de variables, criterios de evaluación y necesidades de <em><b>software</b></em> estadístico. 
+      p También es importante dar claridad a ¿Quién leerá el informe final?, ¿Número de presentaciones necesarias, la misma publicación del informe, posibilidad de recomendaciones para la gerencia y disponibilidad de equipos? Para finalizar, el autor recomienda que en la fase de evaluación se reafirmen las necesidades de asesoría externa, cumplimiento del cronograma, costo de la investigación, logro de objetivos, acciones correctivas y necesidades de capacitación.
     h3 Técnicas utilizadas en la investigación exploratoria
     .tabla-a.color-secundario.mb-5 
       table
@@ -450,10 +450,10 @@
           p Se reconocen dos tipos de estadística: 
     .row
       .col-lg-6
-        figure
+        figure.mb-4
           img(src='@/assets/curso/t1/f27.svg' alt='Estadística descriptiva o deductiva, la cual trabaja con características como promedios o variabilidad de datos sin profundizar, pero facilitando las comparaciones de los hechos')
       .col-lg-6
-        figure
+        figure.mb-4
           img(src='@/assets/curso/t1/f28.svg' alt='Estadística analítica o inductiva, que pretende explicar el comportamiento de lo observado, probar la validez de los resultados y descubrir las causas de su actuación para lograr conclusiones más precisas')
     .contenedor.bg9.mb-5
       .row.align-items-center.mb-5.px-5

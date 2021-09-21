@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Investigación de la oferta exportable y procesamiento de la información',
     descripcionCurso:
-      'Actualmente, las empresas buscan, de una u otra forma, fidelizar sus clientes identificando sus gustos y preferencias para así aumentar las ventas de productos o servicios. Y es por esto que utilizan la investigación de mercados, donde se identifican, obtienen, registran, analizan, presentan y distribuyen datos e información sistemática, acerca de una situación específica que enfrenta la empresa en el mercado, con el propósito de mejorar la toma de decisiones para la solución de problemas y la identificación de oportunidades en este escenario de intercambio comercial.<br><br>Por consiguiente, en este componente formativo se estudiará la forma en que se utilizan diferentes sistemas de información (tecnología) que incluye el análisis de base de datos y los sistemas para ayudar a las compañías en la toma de las decisiones (investigación de mercados) sobre el desarrollo de los diferentes productos o servicios y las estrategias enfocada a satisfacer las necesidades del cliente.',
+      'Actualmente, las empresas buscan, de una u otra forma, fidelizar sus clientes identificando sus gustos y preferencias para así aumentar las ventas de productos o servicios. Y es por esto que utilizan la investigación de mercados, donde se identifican, obtienen, registran, analizan, presentan y distribuyen datos e información sistemática, acerca de una situación específica que enfrenta la empresa en el mercado, con el propósito de mejorar la toma de decisiones para la solución de problemas y la identificación de oportunidades en este escenario de intercambio comercial.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal-img.svg'),
     fondoBannerPrincipal: require('@/assets/curso/banner-principal-bg.png'),
   },
@@ -436,43 +436,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Sandra Carolina Durán López',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Mauricio Santaella',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
       {
-        nombre: 'Nombre',
+        nombre: 'Rafael Augusto Mantilla Lopez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {
