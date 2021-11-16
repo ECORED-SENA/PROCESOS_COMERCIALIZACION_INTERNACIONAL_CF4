@@ -199,7 +199,7 @@ export default {
     {
       referencia:
         'SENA. (2020). <em>Instructivo uso del estilo APA 7 EDICION</em>. ',
-      link: 'http://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
+      link: 'https://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
     },
     {
       referencia:
@@ -384,7 +384,7 @@ export default {
       texto:
         'SENA. (2020). <em>Instructivo uso del estilo APA</em>, 7ª edición.',
       tipo: 'Instructivo',
-      descarga: 'http://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
+      link: 'http://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
     },
   ],
   creditos: {

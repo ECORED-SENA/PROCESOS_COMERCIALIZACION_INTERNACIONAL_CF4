@@ -14,9 +14,8 @@
           p Una base de datos es el conjunto de datos informativos, organizados en un mismo contexto para su uso y vinculación. Se le llama base de datos a los bancos de información que contienen datos relativos a diversas temáticas y categorizados de distinta manera, pero que comparten entre sí algún tipo de vínculo o relación que busca ordenarlos y clasificarlos en conjunto. Sistema de Información es el término general utilizado para la estructura global que incluye todos los mecanismos para compartir datos que se han instalado.
           p Funcionamiento de una base de datos
         .col-lg-6
-          figure
+          figure.boxShadow.border1234.p-4
             img(src='@/assets/curso/t2/f1.svg' alt='Esquema de base de datos')
-            //figcaption Fuente: autoría propia.
     .col-lg-10.mx-auto.mb-5
       h3 ¿Qué es un sistema de gestión de base de datos?
       p.mb-5 La administración de las bases de datos se realiza con un Sistema de Gestión de Base de Datos (<em><b>DataBase Management System</b></em>), el cual es un tipo de <em><b>software</b></em> muy específico, dedicado a servir de interfaz entre la base de datos, el usuario y las aplicaciones que la utilizan. Sus principales características son:
@@ -45,21 +44,27 @@
             .circle.fcac
               h2 1
           .col-lg-10
-            p Tablas: son espacios de almacenamiento que permiten guardar la información que estará compuesta por datos y registros. En una Base de Datos pueden existir muchas tablas, dependiendo de la cantidad de información que se necesita administrar.
+            p 
+              b Tablas: 
+              | son espacios de almacenamiento que permiten guardar la información que estará compuesta por datos y registros. En una Base de Datos pueden existir muchas tablas, dependiendo de la cantidad de información que se necesita administrar.
         hr
         .row
           .col-lg-1.texto-blanco
             .circle.fcac
               h2 2
           .col-lg-10
-            p Campo: identifica lo que se utiliza dentro de una tabla, por ejemplo, la tabla de datos personales contendría los campos: número de identificación, apellidos, nombres, dirección, teléfono, sexo, fecha de nacimiento. En los campos se debe establecer una llave primaria o campo que permita clasificar y que sea único; para nuestro ejemplo, el campo que no se repite sería el de número de identificación.
+            p 
+              b Campo: 
+              | identifica lo que se utiliza dentro de una tabla, por ejemplo, la tabla de datos personales contendría los campos: número de identificación, apellidos, nombres, dirección, teléfono, sexo, fecha de nacimiento. En los campos se debe establecer una llave primaria o campo que permita clasificar y que sea único; para nuestro ejemplo, el campo que no se repite sería el de número de identificación.
         hr
         .row
           .col-lg-1.texto-blanco
             .circle.fcac
               h2 3
           .col-lg-10
-            p Registro: los registros son el conjunto de datos que se han ingresado dentro de la tabla, que a su vez será la información para procesar.
+            p 
+              b Registro: 
+              | los registros son el conjunto de datos que se han ingresado dentro de la tabla, que a su vez será la información para procesar.
     .col-lg-10.mx-auto.mb-5
       h3.text-center Herramientas para procesamiento de información
       p Es una herramienta que permite la gestión, organización y análisis de información, mediante la construcción de una base de datos. Estas herramientas están provistas de una serie de funciones, comandos, y complementos para la administración de la información.
@@ -67,12 +72,16 @@
     .contenedor.bg9.p-0
       .row.align-items-center.mb-5
         .col-lg-3.me-0.fcs.texto-blanco.p-4.flechaDer
-          p Corporativos: son aplicaciones que están orientadas a la administración de un gran volumen de información, se interconectan por medio de redes de datos; dentro de este grupo se encuentra Microsoft Access, este software permite la administración de datos en forma de tablas, crear relaciones entre tablas, consultas, formularios y reportes para la presentación de la información.
+          p 
+            b Corporativos: 
+            | son aplicaciones que están orientadas a la administración de un gran volumen de información, se interconectan por medio de redes de datos; dentro de este grupo se encuentra Microsoft Access, este software permite la administración de datos en forma de tablas, crear relaciones entre tablas, consultas, formularios y reportes para la presentación de la información.
         .col-lg-3.me-0
           figure.p-3
             img(src='@/assets/curso/t2/f7.svg' alt='persona viendo un servidor')
         .col-lg-3.me-0.fcs.texto-blanco.p-4.flechaDer
-          p Personales: ofrecen soluciones básicas para la administración y almacenamiento de la información, ya que el volumen de información que procesa es pequeño. Dentro de este grupo encontramos a Microsoft Excel, que es un software basado en hojas de cálculo, que permite realizar cálculos matemáticos, financieros, contables y estadísticos.
+          p 
+            b Personales: 
+            | ofrecen soluciones básicas para la administración y almacenamiento de la información, ya que el volumen de información que procesa es pequeño. Dentro de este grupo encontramos a Microsoft Excel, que es un software basado en hojas de cálculo, que permite realizar cálculos matemáticos, financieros, contables y estadísticos.
         .col-lg-3.me-0
           figure.p-5
             img(src='@/assets/curso/t2/f8.svg' alt='persona y un folder cerrado con candado')
@@ -97,9 +106,10 @@
         h4 Tipos
         .cajon-b.color-acento-contenido.p-4
           p <em>CRM (Customer Relationship Management)</em>
-          p CRM (<em><b>Customer Relationship Management</b></em>), en su traducción literal, se entiende como la Gestión sobre la Relación con los Consumidores, pero es tan genérico como toda frase en inglés traducida al español.
-        p Para su mejor comprensión, básicamente se refiere a una estrategia de negocios centrada en el cliente. Según Alfredo de Goyeneche, en su publicación registrada en la revista Economía y Administración de la Universidad de Chile, se refiere a que en "CRM estamos frente a un modelo de negocios cuya estrategia está destinada a lograr identificar y administrar las relaciones en aquellas cuentas más valiosas para una empresa, trabajando diferentemente en cada una de ellas, de forma tal que podamos mejorar la efectividad sobre los clientes".
-        p En resumen, ser más efectivos al momento de interactuar con los clientes (Sepúlveda, 2009, p.4).
+          p.mb-0 CRM (<em><b>Customer Relationship Management</b></em>), en su traducción literal, se entiende como la Gestión sobre la Relación con los Consumidores, pero es tan genérico como toda frase en inglés traducida al español.
+        .px-4
+          p Para su mejor comprensión, básicamente se refiere a una estrategia de negocios centrada en el cliente. Según Alfredo de Goyeneche, en su publicación registrada en la revista Economía y Administración de la Universidad de Chile, se refiere a que en "CRM estamos frente a un modelo de negocios cuya estrategia está destinada a lograr identificar y administrar las relaciones en aquellas cuentas más valiosas para una empresa, trabajando diferentemente en cada una de ellas, de forma tal que podamos mejorar la efectividad sobre los clientes".
+          p En resumen, ser más efectivos al momento de interactuar con los clientes (Sepúlveda, 2009, p.4).
     hr
     .row.mb-4
       .col-lg-1
@@ -107,10 +117,11 @@
         h4 Uso
         .cajon-b.color-acento-contenido.p-4
           p El uso está relacionado con la estrategia que la empresa aplica para satisfacer al cliente.  Para esta, utiliza un software de gestión de las relaciones basado en mejora del servicio de atención al cliente, donde incluye a todo su equipo de trabajo.
-          p CMI (Cuadro de Mando Integral)
-        p Es un método de seguimiento de objetivos donde se reúne y se organiza la información con unos indicadores de gestión que miden y hacen el seguimiento del negocio de manera visual y rápida e identifica tendencias, se anticipa a posibles problemas u oportunidades de negocio y los resultados de los diferentes departamentos.
-        p Kaplan y Norton, citados por Salgueiro (2001), también expresan que “el cuadro de mando integral (CMI) es mucho más que un conjunto de indicadores que pueden informar de la marcha de la compañía, y que debe utilizarse como un sistema tanto de gestión central como de comunicación y formación.” (p. 53).
-        p El CMI es un sistema de gestión organizado coherentemente bajo cuatro perspectivas diferentes:
+          p.mb-0 CMI (Cuadro de Mando Integral)
+        .px-4
+          p Es un método de seguimiento de objetivos donde se reúne y se organiza la información con unos indicadores de gestión que miden y hacen el seguimiento del negocio de manera visual y rápida e identifica tendencias, se anticipa a posibles problemas u oportunidades de negocio y los resultados de los diferentes departamentos.
+          p Kaplan y Norton, citados por Salgueiro (2001), también expresan que “el cuadro de mando integral (CMI) es mucho más que un conjunto de indicadores que pueden informar de la marcha de la compañía, y que debe utilizarse como un sistema tanto de gestión central como de comunicación y formación.” (p. 53).
+          p El CMI es un sistema de gestión organizado coherentemente bajo cuatro perspectivas diferentes:
       .col-lg-3
         figure
           img(src='@/assets/curso/t2/f11.svg' alt='Mejores resultados económicos > Clientes más satisfechos > Mejora de procesos > Mejora en la actuación de los empleados')

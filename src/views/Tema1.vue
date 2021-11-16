@@ -480,7 +480,7 @@
               img(src='@/assets/curso/t1/f29.svg' alt='Imagen relacionada')
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 Además, la investigación profunda de estos nuevos mercados le permite a la organización construir modelos de negocios con el fin de minimizar el fracaso y maximizar la inversión. Es importante definir el ¿Qué se va a hacer?, ¿Quién va a hacer el plan de investigación comercial?, ¿La realizará la misma empresa o lo hará un agente externo?, ¿Cómo y dónde?, todos estos factores hacen referencia a los planteamientos de búsqueda de información, herramientas e instrumentos.
+              p.mb-0 Además, la investigación profunda de estos nuevos mercados le permite a la organización construir modelos de negocios con el fin de minimizar el fracaso y maximizar la inversión. Es importante definir el <b>¿Qué se va a hacer?, ¿Quién va a hacer el plan de investigación comercial?, ¿La realizará la misma empresa o lo hará un agente externo?, ¿Cómo y dónde?</b>, todos estos factores hacen referencia a los planteamientos de búsqueda de información, herramientas e instrumentos.
       p Se recomienda que la organización tenga implementado detalladamente un protocolo para definir cuidadosamente las preguntas anteriores. Además, se deben tener en cuenta dentro de la técnica, la capacidad para identificar <b>nuevos</b> paradigmas dentro de la investigación de mercados internacionales, enfocadas a <b>nuevas</b> técnicas de competitividad y uso de nuevas tecnologías.
 </template>
 
