@@ -107,9 +107,9 @@
         .cajon-b.color-acento-contenido.p-4
           p <em>CRM (Customer Relationship Management)</em>
           p.mb-0 CRM (<em><b>Customer Relationship Management</b></em>), en su traducción literal, se entiende como la Gestión sobre la Relación con los Consumidores, pero es tan genérico como toda frase en inglés traducida al español.
-        .px-4
+        .cajon-c.color-primario.p-4
           p Para su mejor comprensión, básicamente se refiere a una estrategia de negocios centrada en el cliente. Según Alfredo de Goyeneche, en su publicación registrada en la revista Economía y Administración de la Universidad de Chile, se refiere a que en "CRM estamos frente a un modelo de negocios cuya estrategia está destinada a lograr identificar y administrar las relaciones en aquellas cuentas más valiosas para una empresa, trabajando diferentemente en cada una de ellas, de forma tal que podamos mejorar la efectividad sobre los clientes".
-          p En resumen, ser más efectivos al momento de interactuar con los clientes (Sepúlveda, 2009, p.4).
+          p.mb-0 En resumen, ser más efectivos al momento de interactuar con los clientes (Sepúlveda, 2009, p.4).
     hr
     .row.mb-4
       .col-lg-1
@@ -118,10 +118,10 @@
         .cajon-b.color-acento-contenido.p-4
           p El uso está relacionado con la estrategia que la empresa aplica para satisfacer al cliente.  Para esta, utiliza un software de gestión de las relaciones basado en mejora del servicio de atención al cliente, donde incluye a todo su equipo de trabajo.
           p.mb-0 CMI (Cuadro de Mando Integral)
-        .px-4
+        .cajon-c.color-primario.p-4
           p Es un método de seguimiento de objetivos donde se reúne y se organiza la información con unos indicadores de gestión que miden y hacen el seguimiento del negocio de manera visual y rápida e identifica tendencias, se anticipa a posibles problemas u oportunidades de negocio y los resultados de los diferentes departamentos.
           p Kaplan y Norton, citados por Salgueiro (2001), también expresan que “el cuadro de mando integral (CMI) es mucho más que un conjunto de indicadores que pueden informar de la marcha de la compañía, y que debe utilizarse como un sistema tanto de gestión central como de comunicación y formación.” (p. 53).
-          p El CMI es un sistema de gestión organizado coherentemente bajo cuatro perspectivas diferentes:
+          p.mb-0 El CMI es un sistema de gestión organizado coherentemente bajo cuatro perspectivas diferentes:
       .col-lg-3
         figure
           img(src='@/assets/curso/t2/f11.svg' alt='Mejores resultados económicos > Clientes más satisfechos > Mejora de procesos > Mejora en la actuación de los empleados')

@@ -170,3 +170,20 @@ $cp15: #BBABF528
 
 .border1234
   border-radius: 1rem
+
+.d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
+  max-width: 450px
+
+.cajon-c
+  position: relative
+  &::before
+    content: ''
+    mix-blend-mode: multiply
+    position: absolute
+    width: 33%
+    height: 25%
+    bottom: 0
+    right: 0
+
+.cajon-c.color-primario:before
+  background-color: #ede9fc

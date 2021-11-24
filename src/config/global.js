@@ -161,8 +161,6 @@ export default {
     {
       referencia:
         'Plazas. (2011). <em>Investigación de mercados: un enfoque gerencial</em>. Ediciones de la U. ',
-      link:
-        'https://ebookcentral-proquestcom.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=3199058&query=INVESTIGACION+DE+MERCADOS',
     },
     {
       referencia:
@@ -380,12 +378,6 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=z4kV0TMBjCA&t=92s',
     },
-    {
-      texto:
-        'SENA. (2020). <em>Instructivo uso del estilo APA</em>, 7ª edición.',
-      tipo: 'Instructivo',
-      link: 'http://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
-    },
   ],
   creditos: {
     liderEquipo: [
@@ -461,12 +453,18 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+      {
+        nombre: 'Carlos Julián Ramírez Benítez',
+        cargo: 'Diseño web y producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
       {
         nombre: 'Rafael Augusto Mantilla Lopez',
         cargo: 'Validación de diseño y contenido',
