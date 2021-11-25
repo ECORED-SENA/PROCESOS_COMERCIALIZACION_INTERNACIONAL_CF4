@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="475.233" viewBox="0 0 1328 475.233">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#472ea6"/>
+      <stop offset="1" stop-color="#7352f0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_59423" data-name="Grupo 59423" transform="translate(2690.35 -3.294)">
+    <path id="Trazado_125244" data-name="Trazado 125244" d="M0,0H1328V475.233H0Z" transform="translate(-2690.35 3.295)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_125243" data-name="Trazado 125243" d="M-1362.35,57.753V3.294h-1328V30.117c574.568,185.547,743.5-132.964,1328,27.636" transform="translate(0)" fill="#6341e2" fill-rule="evenodd"/>
+  </g>
+</svg>
